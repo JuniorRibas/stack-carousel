@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "stack-carousel",
+    "slug": "stack-carousel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
